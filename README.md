@@ -43,5 +43,5 @@
 
 <strong><p align="center">Hasil Program</p></strong>
 
-![](Screenhot/ss1.jpg)
-![](Screenhot/ss2.jpg)
+![](Screenshot/ss1.jpg)
+![](Screenshot/ss2.jpg)
